@@ -1,5 +1,5 @@
 # FORK! 
-# Inteneded to create a pull request...
+(Intended to create a pull request...)
 
 Offline Quiz Module
 ===================
